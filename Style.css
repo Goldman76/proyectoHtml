@@ -1,66 +1,66 @@
 body {
-    background: green ;
+    /*background: white;*/
     background-size: cover;
 }
 
 .col-1 {
     width: 8.33%;
-    float: right;
+    float: left;
 }
 
 .col-2 {
     width: 16.66%;
-    float: right;
+    float: left;
 }
 
 .col-3 {
     width: 25%;
-    float: right;
+    float: left;
 }
 
 .col-4 {
     width: 33.33%
-    float: right;;
+    float: left;;
 }
 
 .col-5 {
     width: 41.66%;
-    float: right;
+    float: left;
 }
 
 .col-6 {
     width: 50%;
-    float: right;
+    float: left;
 }
 
 .col-7 {
     width: 58.33%;
-    float: right;
+    float: left;
 }
 
 .col-8 {
     width: 66.66%;
-    float: right;
+    float: left;
 }
 
 .col-9 {
     width: 75%;
-    float: right;
+    float: left;
 }
 
 .col-10 {
     width: 83.33%;
-    float: right;
+    float: left;
 }
 
 .col-11 {
     width: 91.66%;
-    float: right;
+    float: left;
 }
 
 .col-12 {
     width: 100%;
-    float: right;
+    float: left;
 }
 
 .header {
@@ -82,6 +82,9 @@ body {
 
 .image-container {
     position: relative;
+    background-image: url("https://fptshop.com.vn/Uploads/Originals/2021/10/8/637693193255844514_macbook-pro-2021-render-1.jpg") ;
+    width:"100%";
+    height:"45%";
 }
 
 
